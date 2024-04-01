@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CCD Commander Installer", "CCD Commander Installer\CCD Commander Installer.vdproj", "{1DB1592B-353A-4BE7-99AF-DC1133BA12D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DB1592B-353A-4BE7-99AF-DC1133BA12D6}.Debug|Default.ActiveCfg = Debug
+		{1DB1592B-353A-4BE7-99AF-DC1133BA12D6}.Debug|Default.Build.0 = Debug
+		{1DB1592B-353A-4BE7-99AF-DC1133BA12D6}.Release|Default.ActiveCfg = Release
+		{1DB1592B-353A-4BE7-99AF-DC1133BA12D6}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
